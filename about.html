@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ATC24 Radar — Credits &amp; License</title>
+    <link rel="icon" type="image/svg+xml" href="public/assets/favicon.svg" />
+    <!-- ATASOFT: same two type roles as the radar (see inc/fonts.php for why
+         these weights and display=swap). -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+    <link rel="stylesheet" href="about.css">
+</head>
+<body>
+<!-- ATASOFT: was "index.html", which does not exist in this deployment (the
+     radar is index.php, served by DirectoryIndex) - it 404'd in production.
+     "./" resolves correctly whether the host serves index.php or index.html. -->
+<a class="back-link" href="./">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18l-6-6 6-6"/></svg>
+    Back to radar
+</a>
+<div class="container">
+    <div class="hero">
+        <img class="hero__icon" src="public/assets/favicon.svg" width="52" height="52" alt="" />
+        <div>
+            <h1>ATC24 Radar</h1>
+            <p class="hero__tag">by ATASOFT — a free, non-commercial community project</p>
+        </div>
+    </div>
+
+    <!-- ATASOFT: the pitch, for controllers rather than for the credits list.
+         Every claim here maps to a feature that actually exists in this build
+         (see FEATURE_MATRIX.md) - no invented user numbers, no fake reviews. -->
+    <section class="promo">
+        <p class="promo__kicker">Free &middot; No account &middot; No download</p>
+        <h2 class="promo__title">Your job, with a better radar.</h2>
+        <p class="promo__lead">
+            ATC24 Radar by ATASOFT is a free browser radar for <strong>PTFS / ATC24</strong> controllers.
+            Open a tab, pick your field, and work the traffic - nothing to install, nothing to sign up for,
+            no paid tier hiding the useful parts. It is a community project, and it is meant to make a
+            controller's shift easier.
+        </p>
+        <ul class="promo__list">
+            <li><strong>Your board fills itself.</strong> Filed departures and arrivals appear before the
+                aircraft is even airborne, and the fields the system already knows - type, destination,
+                origin, filed level - are written in for you.</li>
+            <li><strong>The next controller sees your clearance.</strong> Squawk, cleared level, runway, SID,
+                stand and the &ldquo;cleared&rdquo; tick are shared between the controllers working that flight, so
+                nobody is guessing what the previous position issued.</li>
+            <li><strong>Level check at a glance.</strong> A flight sitting on its level is marked automatically
+                (&plusmn;200 ft), so a glance across a busy board tells you who is level and who is not.</li>
+            <li><strong>ATIS without alt-tabbing.</strong> Read every published report on the network, and load
+                a field's runways and QNH straight into the ATIS generator.</li>
+            <li><strong>Everything else a controller asks for:</strong> live radar with trails and altitude
+                colouring, ground view, split screen, airport charts, approach and centreline tools, Centre
+                mode, emergency and traffic alerts, and a measuring tool.</li>
+        </ul>
+        <p class="promo__cta">
+            <a class="promo__button" href="./">Open the radar</a>
+            <span class="promo__note">Free to use. Unofficial and not affiliated with PTFS/ATC24 or Roblox.</span>
+        </p>
+    </section>
+
+    <h2>What this is</h2>
+    <p>
+        ATC24 Radar is a radar client for <strong>Roblox Pilot Training Flight Simulator (PTFS)</strong> /
+        <strong>ATC24</strong>. It is an independent community project and is <strong>not affiliated with,
+        endorsed by, or sponsored by</strong> Roblox Corporation, the PTFS/ATC24 development team, or any
+        airline referenced in aircraft callsign data.
+    </p>
+
+    <h2>Credits &amp; attribution</h2>
+    <p>
+        This build is a redesign of the open-source
+        <a href="https://github.com/t-arpin/atc24radar" target="_blank" rel="noopener">atc24radar</a>
+        project by <strong>t-arpin</strong>, licensed under the
+        <a href="https://www.gnu.org/licenses/gpl-3.0.html" target="_blank" rel="noopener">GNU GPL-3.0</a>.
+        The original project's radar rendering, backend data server, ground view, split-screen system,
+        measuring tool, label system and airport charts are the functional foundation of this build.
+        ATASOFT's contribution is a full visual redesign, rebranding, connection-status reporting,
+        deployment/configuration fixes, and documentation.
+    </p>
+    <ul>
+        <li><strong>t-arpin</strong> — original author of atc24radar (functional base of this build)</li>
+        <li><strong>Tristan3D3</strong> — credited contributor in the original project</li>
+        <li><strong>Autumnhd</strong> — author of
+            <a href="https://github.com/HotDog640/24RC" target="_blank" rel="noopener">24RC</a>, a separate
+            GPL-3.0 ATC24 radar client that was reviewed as part of this project's research but whose code is
+            <em>not</em> included in this build (see Architecture notes below)</li>
+        <li><strong>ATASOFT</strong> — redesign, rebrand, and this build's configuration/deployment fixes</li>
+    </ul>
+    <p>
+        The aircraft symbols on the scope are real top-view aircraft drawings, one single-piece SVG per
+        aircraft type, from
+        <a href="https://github.com/RexKramer1/AircraftShapesSVG" target="_blank" rel="noopener">RexKramer1/AircraftShapesSVG</a>
+        (GPL-3.0). The files ship with this build in <code>public/assets/aircraft-shapes/</code> and are baked
+        into the scope by <code>tools/build-aircraft-shapes.mjs</code>; the scope's size, orientation and
+        data-block offsets are derived from those drawings. Where a type has no drawing of its own, its
+        associated note in that file names the real aircraft of the same class that stands in.
+    </p>
+    <p>
+        No proprietary or closed-source code originating from either upstream project is claimed as ATASOFT's
+        own. This build remains licensed under GPL-3.0 in full — see <a href="LICENSE">LICENSE</a>.
+    </p>
+
+    <h2>How the data works</h2>
+    <p>
+        Aircraft positions are polled from ATC24's public endpoint
+        (<code>https://24data.ptfs.app/acft-data/event</code>) by a small Node.js backend every few seconds.
+        Flight plans arrive separately over ATC24's WebSocket feed
+        (<code>wss://24data.ptfs.app/wss</code>) and are matched to aircraft by Roblox player name. A flight
+        <em>status</em> (climbing / cruising / descending / taxiing / landed / parked / no flight plan) is
+        <strong>computed locally</strong> from altitude, ground speed and flight-plan cruise altitude — it is
+        a heuristic, not a value provided directly by ATC24. Fields ATC24 does not provide (such as
+        controller/sector assignment) are not shown or invented.
+    </p>
+
+    <h2>Open-source licenses</h2>
+    <p>This project is licensed under the GPL-3.0 — see <a href="LICENSE">LICENSE</a> for the full text.</p>
+    <details>
+        <summary>Third-party runtime dependencies (backend)</summary>
+        <ul>
+            <li>express — MIT</li>
+            <li>cors — MIT</li>
+            <li>express-rate-limit — MIT</li>
+            <li>node-fetch — MIT</li>
+            <li>ws — MIT</li>
+        </ul>
+    </details>
+
+    <h2>More</h2>
+    <p>See <a href="ATTRIBUTION.md">ATTRIBUTION.md</a>, <a href="FEATURE_MATRIX.md">FEATURE_MATRIX.md</a> and
+    <a href="DEPLOYMENT.md">DEPLOYMENT.md</a> in the project repository for full detail.</p>
+</div>
+</body>
+</html>

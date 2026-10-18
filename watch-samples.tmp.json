@@ -1,0 +1,117 @@
+{"t":1791991721598,"name":"HERObr081","x":177.99,"y":-203.13,"hdg":204,"alt":40,"gs":10.96542039828144,"spd":11,"ground":true,"taxi":true,"type":"Airbus A320"}
+{"t":1791991721598,"name":"Andey65","x":184.24,"y":-197.39,"hdg":62,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"E190"}
+{"t":1791991721598,"name":"krithekh_disco","x":182.14,"y":-200.66,"hdg":245,"alt":45,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"Airbus A340"}
+{"t":1791991725899,"name":"HERObr081","x":177.88,"y":-202.88,"hdg":199,"alt":40,"gs":10.971221801891332,"spd":11,"ground":true,"taxi":true,"type":"Airbus A320"}
+{"t":1791991725899,"name":"Andey65","x":184.24,"y":-197.39,"hdg":62,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"E190"}
+{"t":1791991725899,"name":"krithekh_disco","x":182.14,"y":-200.66,"hdg":245,"alt":45,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"Airbus A340"}
+{"t":1791991730048,"name":"HERObr081","x":177.81,"y":-202.68,"hdg":199,"alt":40,"gs":14.957192007097692,"spd":15,"ground":true,"taxi":true,"type":"Airbus A320"}
+{"t":1791991730048,"name":"Andey65","x":184.24,"y":-197.39,"hdg":62,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"E190"}
+{"t":1791991730048,"name":"krithekh_disco","x":182.09,"y":-200.64,"hdg":246,"alt":45,"gs":7.685924565423277,"spd":8,"ground":true,"taxi":true,"type":"Airbus A340"}
+{"t":1791991734520,"name":"HERObr081","x":177.67,"y":-202.31,"hdg":235,"alt":40,"gs":15.94972656914557,"spd":16,"ground":true,"taxi":true,"type":"Airbus A320"}
+{"t":1791991734520,"name":"Andey65","x":184.24,"y":-197.39,"hdg":62,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"E190"}
+{"t":1791991734520,"name":"krithekh_disco","x":181.77,"y":-200.55,"hdg":258,"alt":45,"gs":17.960089419061173,"spd":18,"ground":true,"taxi":true,"type":"Airbus A340"}
+{"t":1791991738713,"name":"HERObr081","x":177.31,"y":-202.21,"hdg":288,"alt":40,"gs":15.955182598454202,"spd":16,"ground":true,"taxi":true,"type":"Airbus A320"}
+{"t":1791991738713,"name":"Andey65","x":184.24,"y":-197.39,"hdg":62,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"E190"}
+{"t":1791991738713,"name":"krithekh_disco","x":181.36,"y":-200.4,"hdg":237,"alt":45,"gs":17.96419885908705,"spd":18,"ground":true,"taxi":true,"type":"Airbus A340"}
+{"t":1791991742877,"name":"HERObr081","x":176.94,"y":-202.35,"hdg":281,"alt":40,"gs":15.958841309090602,"spd":16,"ground":true,"taxi":true,"type":"Airbus A320"}
+{"t":1791991742877,"name":"Andey65","x":184.24,"y":-197.39,"hdg":62,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"E190"}
+{"t":1791991742877,"name":"krithekh_disco","x":181.07,"y":-200.09,"hdg":209,"alt":45,"gs":17.964751727735965,"spd":18,"ground":true,"taxi":true,"type":"Airbus A340"}
+{"t":1791991747012,"name":"HERObr081","x":176.65,"y":-202.36,"hdg":232,"alt":40,"gs":15.962973886080059,"spd":16,"ground":true,"taxi":true,"type":"Airbus A320"}
+{"t":1791991747012,"name":"Andey65","x":184.24,"y":-197.39,"hdg":62,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"E190"}
+{"t":1791991747012,"name":"krithekh_disco","x":180.92,"y":-199.8,"hdg":206,"alt":45,"gs":17.952852186360406,"spd":18,"ground":true,"taxi":true,"type":"Airbus A340"}
+{"t":1791991751545,"name":"HERObr081","x":176.4,"y":-201.96,"hdg":199,"alt":40,"gs":15.959424120097454,"spd":16,"ground":true,"taxi":true,"type":"Airbus A320"}
+{"t":1791991751545,"name":"Andey65","x":184.24,"y":-197.39,"hdg":62,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"E190"}
+{"t":1791991751545,"name":"krithekh_disco","x":180.63,"y":-199.34,"hdg":233,"alt":45,"gs":17.97510531810524,"spd":18,"ground":true,"taxi":true,"type":"Airbus A340"}
+{"t":1791991755791,"name":"HERObr081","x":176.31,"y":-201.69,"hdg":201,"alt":40,"gs":15.955014458832299,"spd":16,"ground":true,"taxi":true,"type":"Airbus A320"}
+{"t":1791991755791,"name":"Andey65","x":184.24,"y":-197.39,"hdg":62,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"E190"}
+{"t":1791991755791,"name":"krithekh_disco","x":180.33,"y":-199.22,"hdg":274,"alt":45,"gs":17.968937152968994,"spd":18,"ground":true,"taxi":true,"type":"Airbus A340"}
+{"t":1791991759918,"name":"HERObr081","x":176.18,"y":-201.33,"hdg":200,"alt":40,"gs":15.955888748194939,"spd":16,"ground":true,"taxi":true,"type":"Airbus A320"}
+{"t":1791991759918,"name":"Andey65","x":184.24,"y":-197.39,"hdg":62,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"E190"}
+{"t":1791991759918,"name":"krithekh_disco","x":179.91,"y":-199.34,"hdg":292,"alt":45,"gs":17.97032369759274,"spd":18,"ground":true,"taxi":true,"type":"Airbus A340"}
+{"t":1791991764076,"name":"HERObr081","x":176.07,"y":-201.03,"hdg":200,"alt":40,"gs":12.963476295983751,"spd":13,"ground":true,"taxi":true,"type":"Airbus A320"}
+{"t":1791991764076,"name":"Andey65","x":184.3,"y":-197.42,"hdg":62,"alt":36,"gs":7.976582691526995,"spd":8,"ground":true,"taxi":true,"type":"E190"}
+{"t":1791991764076,"name":"krithekh_disco","x":179.57,"y":-199.49,"hdg":291,"alt":45,"gs":17.97412942751166,"spd":18,"ground":true,"taxi":true,"type":"Airbus A340"}
+{"t":1791991768589,"name":"HERObr081","x":175.97,"y":-200.76,"hdg":200,"alt":40,"gs":11.965096471794144,"spd":12,"ground":true,"taxi":true,"type":"Airbus A320"}
+{"t":1791991768589,"name":"Andey65","x":184.54,"y":-197.55,"hdg":62,"alt":36,"gs":12.964570543116528,"spd":13,"ground":true,"taxi":true,"type":"E190"}
+{"t":1791991768589,"name":"krithekh_disco","x":179.18,"y":-199.65,"hdg":291,"alt":45,"gs":17.97203652241514,"spd":18,"ground":true,"taxi":true,"type":"Airbus A340"}
+{"t":1791991772724,"name":"HERObr081","x":175.88,"y":-200.48,"hdg":160,"alt":40,"gs":11.973711664207835,"spd":12,"ground":true,"taxi":true,"type":"Airbus A320"}
+{"t":1791991772724,"name":"Andey65","x":184.82,"y":-197.7,"hdg":61,"alt":36,"gs":12.961414371958439,"spd":13,"ground":true,"taxi":true,"type":"E190"}
+{"t":1791991772724,"name":"krithekh_disco","x":178.88,"y":-199.77,"hdg":291,"alt":45,"gs":4.990231460398112,"spd":5,"ground":true,"taxi":true,"type":"Airbus A340"}
+{"t":1791991776872,"name":"HERObr081","x":176.05,"y":-200.26,"hdg":112,"alt":40,"gs":11.971426764274565,"spd":12,"ground":true,"taxi":true,"type":"Airbus A320"}
+{"t":1791991776872,"name":"Andey65","x":185.09,"y":-197.85,"hdg":52,"alt":36,"gs":12.964637054360473,"spd":13,"ground":true,"taxi":true,"type":"E190"}
+{"t":1791991776872,"name":"krithekh_disco","x":178.84,"y":-199.78,"hdg":290,"alt":45,"gs":1.0043847140540472,"spd":1,"ground":true,"taxi":true,"type":"Airbus A340"}
+{"t":1791991781021,"name":"HERObr081","x":176.26,"y":-200.18,"hdg":113,"alt":40,"gs":11.964805564697517,"spd":12,"ground":true,"taxi":true,"type":"Airbus A320"}
+{"t":1791991781021,"name":"Andey65","x":185.26,"y":-198.03,"hdg":7,"alt":36,"gs":12.966508744654453,"spd":13,"ground":true,"taxi":true,"type":"E190"}
+{"t":1791991781021,"name":"krithekh_disco","x":178.83,"y":-199.78,"hdg":289,"alt":45,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"Airbus A340"}
+{"t":1791991785634,"name":"HERObr081","x":176.53,"y":-200.07,"hdg":112,"alt":40,"gs":7.982431342414946,"spd":8,"ground":true,"taxi":true,"type":"Airbus A320"}
+{"t":1791991785634,"name":"Andey65","x":185.22,"y":-198.26,"hdg":332,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"E190"}
+{"t":1791991785634,"name":"krithekh_disco","x":178.83,"y":-199.78,"hdg":289,"alt":45,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"Airbus A340"}
+{"t":1791991789797,"name":"HERObr081","x":176.72,"y":-200,"hdg":112,"alt":40,"gs":6.978770251315261,"spd":7,"ground":true,"taxi":true,"type":"Airbus A320"}
+{"t":1791991789797,"name":"Andey65","x":185.22,"y":-198.26,"hdg":332,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"E190"}
+{"t":1791991789797,"name":"krithekh_disco","x":178.83,"y":-199.78,"hdg":289,"alt":45,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"Airbus A340"}
+{"t":1791991793976,"name":"HERObr081","x":176.81,"y":-199.95,"hdg":111,"alt":40,"gs":3.987906422450704,"spd":4,"ground":true,"taxi":true,"type":"Airbus A320"}
+{"t":1791991793976,"name":"Andey65","x":185.22,"y":-198.26,"hdg":332,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"E190"}
+{"t":1791991793976,"name":"krithekh_disco","x":178.83,"y":-199.78,"hdg":289,"alt":45,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"Airbus A340"}
+{"t":1791991798109,"name":"HERObr081","x":176.85,"y":-199.93,"hdg":110,"alt":40,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"Airbus A320"}
+{"t":1791991798109,"name":"Andey65","x":185.22,"y":-198.26,"hdg":332,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"E190"}
+{"t":1791991802710,"name":"HERObr081","x":176.85,"y":-199.93,"hdg":110,"alt":40,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"Airbus A320"}
+{"t":1791991802710,"name":"BorisBruh_21","x":171.05,"y":-202.3,"hdg":111,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"Boeing 737"}
+{"t":1791991802710,"name":"LaLibyeKebab_94","x":178.06,"y":-196.6,"hdg":240,"alt":41,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"Boeing 787"}
+{"t":1791991802710,"name":"Andey65","x":185.22,"y":-198.26,"hdg":332,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"E190"}
+{"t":1791991807088,"name":"HERObr081","x":176.85,"y":-199.93,"hdg":110,"alt":40,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"Airbus A320"}
+{"t":1791991807088,"name":"BorisBruh_21","x":171.05,"y":-202.3,"hdg":111,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"Boeing 737"}
+{"t":1791991807088,"name":"LaLibyeKebab_94","x":178.06,"y":-196.6,"hdg":240,"alt":41,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"Boeing 787"}
+{"t":1791991807088,"name":"Andey65","x":185.22,"y":-198.26,"hdg":332,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"E190"}
+{"t":1791991811622,"name":"HERObr081","x":176.85,"y":-199.93,"hdg":110,"alt":40,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"Airbus A320"}
+{"t":1791991811622,"name":"BorisBruh_21","x":171.05,"y":-202.3,"hdg":111,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"Boeing 737"}
+{"t":1791991811622,"name":"LaLibyeKebab_94","x":178.06,"y":-196.6,"hdg":240,"alt":41,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"Boeing 787"}
+{"t":1791991811622,"name":"Andey65","x":185.22,"y":-198.26,"hdg":332,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"E190"}
+{"t":1791991815907,"name":"sapabapa","x":219.67,"y":-189.86,"hdg":286,"alt":314,"gs":149.1334786962848,"spd":148,"ground":false,"taxi":false,"type":"Airbus A220"}
+{"t":1791991815907,"name":"HERObr081","x":176.85,"y":-199.93,"hdg":110,"alt":40,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"Airbus A320"}
+{"t":1791991815907,"name":"BorisBruh_21","x":171.05,"y":-202.3,"hdg":111,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"Boeing 737"}
+{"t":1791991815907,"name":"LaLibyeKebab_94","x":178.06,"y":-196.6,"hdg":240,"alt":41,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"Boeing 787"}
+{"t":1791991815907,"name":"Andey65","x":185.22,"y":-198.26,"hdg":332,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"E190"}
+{"t":1791991820056,"name":"sapabapa","x":216.32,"y":-191.1,"hdg":290,"alt":288,"gs":142.38465984946984,"spd":141,"ground":false,"taxi":false,"type":"Airbus A220"}
+{"t":1791991820056,"name":"BorisBruh_21","x":171.05,"y":-202.3,"hdg":111,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"Boeing 737"}
+{"t":1791991820056,"name":"LaLibyeKebab_94","x":178.06,"y":-196.6,"hdg":240,"alt":41,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"Boeing 787"}
+{"t":1791991820056,"name":"Andey65","x":185.22,"y":-198.26,"hdg":332,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"E190"}
+{"t":1791991824534,"name":"sapabapa","x":213.08,"y":-192.36,"hdg":289,"alt":254,"gs":139.1144732318352,"spd":138,"ground":false,"taxi":false,"type":"Airbus A220"}
+{"t":1791991824534,"name":"BorisBruh_21","x":171.05,"y":-202.3,"hdg":111,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"Boeing 737"}
+{"t":1791991824534,"name":"LaLibyeKebab_94","x":178.06,"y":-196.6,"hdg":240,"alt":41,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"Boeing 787"}
+{"t":1791991824534,"name":"Andey65","x":185.22,"y":-198.26,"hdg":332,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"E190"}
+{"t":1791991829114,"name":"sapabapa","x":209.9,"y":-193.6,"hdg":290,"alt":206,"gs":141.76546740208127,"spd":138,"ground":false,"taxi":false,"type":"Airbus A220"}
+{"t":1791991829114,"name":"BorisBruh_21","x":171.05,"y":-202.3,"hdg":111,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"Boeing 737"}
+{"t":1791991829114,"name":"LaLibyeKebab_94","x":178.06,"y":-196.6,"hdg":240,"alt":41,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"Boeing 787"}
+{"t":1791991829114,"name":"Andey65","x":185.22,"y":-198.26,"hdg":332,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"E190"}
+{"t":1791991833549,"name":"sapabapa","x":206.67,"y":-194.85,"hdg":290,"alt":157,"gs":141.9046559803392,"spd":138,"ground":false,"taxi":false,"type":"Airbus A220"}
+{"t":1791991833549,"name":"BorisBruh_21","x":171.05,"y":-202.3,"hdg":111,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"Boeing 737"}
+{"t":1791991833549,"name":"LaLibyeKebab_94","x":178.06,"y":-196.6,"hdg":240,"alt":41,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"Boeing 787"}
+{"t":1791991833549,"name":"Andey65","x":185.22,"y":-198.26,"hdg":332,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"E190"}
+{"t":1791991838186,"name":"sapabapa","x":203.45,"y":-196.08,"hdg":289,"alt":135,"gs":141.76680884928663,"spd":138,"ground":false,"taxi":false,"type":"Airbus A220"}
+{"t":1791991838186,"name":"BorisBruh_21","x":171.05,"y":-202.3,"hdg":111,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"Boeing 737"}
+{"t":1791991838186,"name":"LaLibyeKebab_94","x":178.06,"y":-196.6,"hdg":240,"alt":41,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"Boeing 787"}
+{"t":1791991838186,"name":"Andey65","x":185.22,"y":-198.26,"hdg":332,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"E190"}
+{"t":1791991842530,"name":"sapabapa","x":200.22,"y":-197.29,"hdg":290,"alt":120,"gs":141.8815528073498,"spd":138,"ground":false,"taxi":false,"type":"Airbus A220"}
+{"t":1791991842530,"name":"BorisBruh_21","x":171.05,"y":-202.3,"hdg":111,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"Boeing 737"}
+{"t":1791991842530,"name":"LaLibyeKebab_94","x":178.06,"y":-196.6,"hdg":240,"alt":41,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"Boeing 787"}
+{"t":1791991842530,"name":"Andey65","x":185.22,"y":-198.26,"hdg":332,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"E190"}
+{"t":1791991847074,"name":"sapabapa","x":197,"y":-198.5,"hdg":290,"alt":90,"gs":141.90553450752242,"spd":138,"ground":false,"taxi":false,"type":"Airbus A220"}
+{"t":1791991847074,"name":"BorisBruh_21","x":171.05,"y":-202.3,"hdg":111,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"Boeing 737"}
+{"t":1791991847074,"name":"LaLibyeKebab_94","x":178.06,"y":-196.6,"hdg":240,"alt":41,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"Boeing 787"}
+{"t":1791991847074,"name":"Andey65","x":185.22,"y":-198.26,"hdg":332,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"E190"}
+{"t":1791991851554,"name":"sapabapa","x":193.69,"y":-199.81,"hdg":290,"alt":50,"gs":141.90516154891955,"spd":138,"ground":false,"taxi":false,"type":"Airbus A220"}
+{"t":1791991851554,"name":"BorisBruh_21","x":171.05,"y":-202.3,"hdg":111,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"Boeing 737"}
+{"t":1791991851554,"name":"LaLibyeKebab_94","x":178.06,"y":-196.6,"hdg":240,"alt":41,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"Boeing 787"}
+{"t":1791991851554,"name":"Andey65","x":185.22,"y":-198.26,"hdg":332,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"E190"}
+{"t":1791991856069,"name":"sapabapa","x":190.57,"y":-201.03,"hdg":291,"alt":41,"gs":124.21875881720109,"spd":121,"ground":false,"taxi":false,"type":"Airbus A220"}
+{"t":1791991856069,"name":"BorisBruh_21","x":171.05,"y":-202.3,"hdg":111,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"Boeing 737"}
+{"t":1791991856069,"name":"LaLibyeKebab_94","x":178.06,"y":-196.6,"hdg":240,"alt":41,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"Boeing 787"}
+{"t":1791991856069,"name":"Andey65","x":185.22,"y":-198.26,"hdg":332,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"E190"}
+{"t":1791991860528,"name":"sapabapa","x":188.17,"y":-201.96,"hdg":292,"alt":41,"gs":87.72823198805571,"spd":87,"ground":true,"taxi":true,"type":"Airbus A220"}
+{"t":1791991860528,"name":"BorisBruh_21","x":171.05,"y":-202.3,"hdg":111,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"Boeing 737"}
+{"t":1791991860528,"name":"LaLibyeKebab_94","x":178.06,"y":-196.6,"hdg":240,"alt":41,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"Boeing 787"}
+{"t":1791991860528,"name":"Andey65","x":185.22,"y":-198.26,"hdg":332,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"E190"}
+{"t":1791991864710,"name":"sapabapa","x":186.59,"y":-202.61,"hdg":293,"alt":41,"gs":57.215337159380944,"spd":57,"ground":true,"taxi":true,"type":"Airbus A220"}
+{"t":1791991864710,"name":"BorisBruh_21","x":171.05,"y":-202.3,"hdg":111,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"Boeing 737"}
+{"t":1791991864710,"name":"LaLibyeKebab_94","x":178.06,"y":-196.6,"hdg":240,"alt":41,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"Boeing 787"}
+{"t":1791991864710,"name":"Andey65","x":185.22,"y":-198.26,"hdg":332,"alt":36,"gs":0,"spd":0,"ground":true,"taxi":true,"type":"E190"}
